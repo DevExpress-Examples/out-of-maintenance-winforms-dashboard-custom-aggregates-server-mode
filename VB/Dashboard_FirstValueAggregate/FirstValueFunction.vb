@@ -25,7 +25,7 @@ Namespace Dashboard_FirstValueAggregate
 		End Property
 		Public ReadOnly Property Description() As String Implements ICustomFunctionOperatorBrowsable.Description
 			Get
-				Return "Aggregates data by input value, and displays the first value of the field"
+				Return "TODO."
 			End Get
 		End Property
 		Public ReadOnly Property Category() As FunctionCategory Implements ICustomFunctionOperatorBrowsable.Category
