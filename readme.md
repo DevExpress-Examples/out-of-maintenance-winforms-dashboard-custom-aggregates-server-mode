@@ -1,11 +1,6 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/417079715/21.2.1%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T1036629)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
-# Dashboard for WinForms - How to Aggregate Data by String Concatenation
+# Dashboard for WinForms - How to Aggregate Data by the Field's First Value
 
-This example shows how to use string concatenation to aggregate data in client mode.
+This example shows how to aggregate data by the field's first value in server mode.
 
 <!-- default file list -->
 ## Files to Look At
