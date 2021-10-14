@@ -6,7 +6,7 @@ This example shows how to aggregate data by the field's first value in server mo
 ## Files to Look At
 * [Form1.cs](./CS/Dashboard_FirstValueAggregate/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_FirstValueAggregate/Form1.vb))
 * [FirstValueFunction.cs](./CS/Dashboard_FirstValueAggregate/FirstValueFunction.cs) (VB: [FirstValueFunction.vb](./VB/Dashboard_FirstValueAggregate/FirstValueFunction.vb))
-* [Program.cs](./CS/Dashboard_FirstValueAggregate/Program.cs#L23) (VB: [Program.vb](./VB/Dashboard_FirstValueAggregate/Program.vb#L23))
+* [Program.cs](./CS/Dashboard_FirstValueAggregate/Program.cs#L21) (VB: [Program.vb](./VB/Dashboard_FirstValueAggregate/Program.vb#L20))
 <!-- default file list end -->
 
 ## Overview
