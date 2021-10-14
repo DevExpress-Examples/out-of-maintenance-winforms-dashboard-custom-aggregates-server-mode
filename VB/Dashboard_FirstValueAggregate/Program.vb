@@ -1,9 +1,9 @@
 ﻿Imports DevExpress.Data.Filtering
+Imports System
+Imports System.Windows.Forms
 Imports DevExpress.LookAndFeel
 Imports DevExpress.Skins
 Imports DevExpress.UserSkins
-Imports System
-Imports System.Windows.Forms
 
 Namespace Dashboard_FirstValueAggregate
 	Friend Module Program
