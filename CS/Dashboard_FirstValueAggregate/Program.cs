@@ -5,8 +5,7 @@ using DevExpress.LookAndFeel;
 using DevExpress.Skins;
 using DevExpress.UserSkins;
 
-namespace Dashboard_FirstValueAggregate
-{
+namespace Dashboard_FirstValueAggregate {
     static class Program {
         /// <summary>
         /// The main entry point for the application.
