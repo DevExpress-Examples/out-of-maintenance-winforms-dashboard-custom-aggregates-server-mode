@@ -6,7 +6,8 @@ Imports System.Collections.Generic
 
 Namespace Dashboard_FirstValueAggregate
 	Friend Class FirstValueAggregateFunction
-		Implements ICustomAggregateFunction, ICustomFunctionOperatorBrowsable, ICustomFunctionCategory, ICustomFunctionOperatorFormattable
+		Implements ICustomAggregateFunction, ICustomFunctionOperatorBrowsable, 
+		ICustomFunctionCategory, ICustomFunctionOperatorFormattable
 
 		Public ReadOnly Property Name() As String Implements DevExpress.Data.Filtering.ICustomFunctionOperator.Name
 			Get
