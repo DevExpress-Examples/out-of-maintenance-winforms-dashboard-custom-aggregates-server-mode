@@ -5,7 +5,8 @@ using System;
 using System.Collections.Generic;
 
 namespace Dashboard_FirstValueAggregate {
-    class FirstValueAggregateFunction : ICustomAggregateFunction, ICustomFunctionOperatorBrowsable, ICustomFunctionCategory, ICustomFunctionOperatorFormattable {
+    class FirstValueAggregateFunction : ICustomAggregateFunction, ICustomFunctionOperatorBrowsable,
+        ICustomFunctionCategory, ICustomFunctionOperatorFormattable {
         public string Name => "FirstValue";
 
         public int MinOperandCount => 1;
