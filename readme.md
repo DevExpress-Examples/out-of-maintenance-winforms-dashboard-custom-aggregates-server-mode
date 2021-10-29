@@ -30,7 +30,7 @@ Call the [CriteriaOperator.RegisterCustomFunction](https://docs.devexpress.com/C
 - [Grouping](https://docs.devexpress.com/Dashboard/116535/common-features/data-shaping/grouping)
 - [ICustomFunctionOperatorBrowsable](https://docs.devexpress.com/CoreLibraries/DevExpress.Data.Filtering.ICustomFunctionOperatorBrowsable)
 - [ICustomFunctionOperatorFormattable](https://docs.devexpress.com/CoreLibraries/DevExpress.Data.Filtering.ICustomFunctionOperatorFormattable)
-- [ICustomAggregateFunction](https://docs.devexpress.com/CoreLibraries/DevExpress.DataProcessing.Criteria.ICustomAggregateFunction)
+- [ICustomAggregateFunction](https://docs.devexpress.com/CoreLibraries/DevExpress.DataProcessing.Criteria.ICustomAggregateFunction?v=21.2)
 
 ## More Examples
 
